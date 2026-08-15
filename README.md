@@ -18,8 +18,8 @@ Antes de comenzar, asegúrate de tener instalado en tu sistema:
 
 ### 1. Clonar o descargar el proyecto
 ```bash
-git clone <URL_DE_TU_REPOSITORIO>
-cd shaco_bot
+git clone https://github.com/AxelBC06/shaco-bot.git
+cd shaco-bot
 ```
 
 ### 2. Crear y activar un entorno virtual (Recomendado)
